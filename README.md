@@ -1,3 +1,3 @@
 # Avito-Scraper
-* npm install --save puppeteer
-* npm run start
+* `npm install puppeteer`
+* `npm run start`
